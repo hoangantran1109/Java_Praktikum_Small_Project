@@ -3,19 +3,11 @@
 
 Herzlich willkommen,
 im Folgenden Test finden Sie eine kurze Anleitung für den Chat und das Loveletter Game 
-(Pfad: vp-lockere-lilien\out\artifacts\Server_jar).
 
 Chat:
-Um einen Chatroom zu erstellen, führen Sie zunächst das Server.jar im Terminal aus.
-Verwenden Sie hierfür den Befehl:
+Um einen Chatroom zu erstellen, führen Sie zunächst das Server.java im Terminal aus.
 
-java -jar Server.jar
-
-Anschließend können Sie Clients.jar so oft starten, wie Sie Chat- bzw. Spielteilnehmer(minimal 2, maximal 4) haben möchten
-(Pfad: vp-lockere-lilien\out\artifacts\Client_jar).
-Verwenden Sie hierfür für jeden neuen Client den Befehl:
-
-java -jar Client.jar
+Anschließend können Sie Clients.java so oft starten, wie Sie Chat- bzw. Spielteilnehmer(minimal 2, maximal 4) haben möchten.
 
 Die Clients werden automatisch aufgefordert, einen Namen einzugeben. Leere Eingaben, "bye" und bereits vergebene Namen 
 sind keine möglichen Namen.
